@@ -6,4 +6,5 @@ venv/
 .idea
 
 credentials.sh
+service_account.json
 .cache-*.venv
