@@ -1,10 +1,12 @@
 *.pyc
 
 env/
-venv/
+.venv/
 
+logs/
 .idea
 
 credentials.sh
 service_account.json
-.cache-*.venv
+.cache-*
+
